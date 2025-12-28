@@ -1,0 +1,9 @@
+[
+  {
+    "label": "mybuildtask",
+    "command": "zig build",
+    "reveal": "always",
+    "reveal_target": "dock",
+    "hide": "never",
+  },
+]
